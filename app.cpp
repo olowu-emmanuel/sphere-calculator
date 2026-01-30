@@ -1,3 +1,10 @@
+/*
+ * Project: Sphere Geometry Calculator
+ * Description: This program takes a user-defined radius and calculates 
+ * the total surface area and volume of a sphere. 
+ * Features: Includes input sanitization and formatted output.
+ */
+
 #include <iostream>
 #include <cmath>    
 #include <iomanip>  
